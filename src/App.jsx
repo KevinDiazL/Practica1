@@ -8,27 +8,27 @@ import { Cards } from './components/card'
 
 function App() {
   const information = [{
-    img: "./Practica1/public/img/photo1.png",
+    img: "./photo1.png",
     name: "Bill Mahoney",
     text: "PRODUCT OWNER",
   }, {
-    img: "./Practica1/public/img/photo2.png",
+    img: "./photo2.png",
     name: "Saba Cabrera",
     text: "ART DIRECTOR",
   }, {
-    img: "./Practica1/public/img/photo3.png",
+    img: "./photo3.png",
     name: "Shae le",
     text: "TEACH LEAD",
   }, {
-    img: "./Practica1/public/img/photo4.png",
+    img: "./photo4.png",
     name: "Skylah Lu",
     text: "UX DESIGNER",
   }, {
-    img: "./Practica1/public/img/photo5.png",
+    img: "./photo5.png",
     name: "Grif Richards",
     text: "DEVELOPER",
   }, {
-    img: "./Practica1/public/img/photo6.png",
+    img: "./photo6.png",
     name: "Stan Jhon",
     text: "DEVELOPER",
   }
